@@ -1,1 +1,1 @@
-<?php echo "Hello Rohit Singh Chouhan" ?>
+<?php echo "Hello World" ?>
